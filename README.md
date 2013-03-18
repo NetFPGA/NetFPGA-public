@@ -1,4 +1,4 @@
-[![](wiki/netfpga.png)](http://www.netfpga.org)
+[![](netfpga.png)](http://www.netfpga.org)
 
 Welcome to the NetFPGA public repository.
 
