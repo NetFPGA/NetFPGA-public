@@ -8,10 +8,9 @@ Try the [[NetFPGA homepage][http://www.netfpga.org]?
 
 Do you want documentation for the NetFPGA 10G?
 
-Start with [[the wiki][https://github.com/NetFPGA/NetFPGA-public/wiki]]
+Start with [the wiki][https://github.com/NetFPGA/NetFPGA-public/wiki]
 
 Want to get to the code?
 
-Start with [[this
-page][https://github.com/NetFPGA/NetFPGA-10G-empty/wiki/Going-Beta]]
+Start with [this page][https://github.com/NetFPGA/NetFPGA-10G-empty/wiki/Going-Beta]
 
