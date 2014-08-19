@@ -1,16 +1,19 @@
-[![](netfpga.png)](http://www.netfpga.org)
+[![](https://github.com/NetFPGA/NetFPGA-public/blob/master/netfpga.png)](http://www.netfpga.org)
 
-Welcome to the NetFPGA public repository.
+Welcome to the NetFPGA wiki
 
-Not sure what NetFPGA is? 
+If you are interested to learn about NetFPGA-SUME Platform, refer to the wiki below
 
-Try the [[NetFPGA homepage][http://www.netfpga.org]?
+[NetFPGA-SUME-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-SUME)
 
-Do you want documentation for the NetFPGA 10G?
+If you are interested to learn about NetFPGA-1G-CML Platform, refer to the wiki below
 
-Start with [the wiki][https://github.com/NetFPGA/NetFPGA-public/wiki]
+[NetFPGA-1G-CML-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-1G-CML)
 
-Want to get to the code?
+If you are interested to learn about NetFPGA-10G Platform, refer to the wiki below
 
-Start with [this page][https://github.com/NetFPGA/NetFPGA-10G-empty/wiki/Going-Beta]
+[NetFPGA-10G-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-10G)
 
+(DEPRECATED) If you are interested to learn about NetFPGA-1G Platform, refer to the wiki below
+
+[NetFPGA-1G-Wiki](https://github.com/NetFPGA/netfpga/wiki)
