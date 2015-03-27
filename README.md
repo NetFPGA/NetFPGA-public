@@ -4,7 +4,7 @@ Welcome to the NetFPGA wiki
 
 If you are interested to learn about NetFPGA-SUME Platform, refer to the wiki below
 
-[NetFPGA-SUME-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-SUME)
+[NetFPGA-SUME-Wiki](https://github.com/NetFPGA/NetFPGA-SUME-public/wiki/Home)
 
 If you are interested to learn about NetFPGA-1G-CML Platform, refer to the wiki below
 
