@@ -8,11 +8,11 @@ If you are interested to learn about NetFPGA-SUME Platform, refer to the wiki be
 
 If you are interested to learn about NetFPGA-1G-CML Platform, refer to the wiki below
 
-[NetFPGA-1G-CML-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-1G-CML)
+[NetFPGA-1G-CML-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home-NetFPGA-1G-CML)
 
 If you are interested to learn about NetFPGA-10G Platform, refer to the wiki below
 
-[NetFPGA-10G-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-10G)
+[NetFPGA-10G-Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home-NetFPGA-10G)
 
 (DEPRECATED) If you are interested to learn about NetFPGA-1G Platform, refer to the wiki below
 
